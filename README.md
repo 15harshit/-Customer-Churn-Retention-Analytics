@@ -13,8 +13,7 @@ Key Outcomes
 ### Interactive Dashboard
 
 Tableau Public Dashboard:  
-[View Interactive Tableau Dashboard] (https://public.tableau.com/views/CustomerChurnAnalysisRevenueRiskRetentionStrategyDashboard/CustomerChurnOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+[View Interactive Tableau Dashboard] 
 ---
 
 # 📌 Project Overview
@@ -281,13 +280,14 @@ This solution enables banking stakeholders to:
 
 # 👨‍💻 Author
 
-## Aryan Chechi
+## Harshit Madan
 
-Computer Engineering Undergraduate | Data Analytics Enthusiast
+Computer Science & Engineering Undergraduate | Data Analytics Enthusiast
 
 ### Skills
 
 - SQL
+- Power Bi
 - Tableau
 - Excel
 - Data Analytics
@@ -296,8 +296,8 @@ Computer Engineering Undergraduate | Data Analytics Enthusiast
 
 ### LinkedIn
 
-https://www.linkedin.com/in/aryanchechi
+https://www.linkedin.com/in/harshitmadan15
 
 ### Tableau Public
 
-https://public.tableau.com/app/profile/aryan.chechi
+https://public.tableau.com/app/profile/harshit.madan3531/vizzes
